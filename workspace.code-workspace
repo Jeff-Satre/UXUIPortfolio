@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "18.1-activities",
+			"path": "../18.1-activities"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../CODING-Activities/18.2-activities"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "18.2-activities"
+	}
+}
